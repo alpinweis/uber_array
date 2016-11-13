@@ -1,0 +1,55 @@
+---
+- id:    0a
+  name:  John Doe
+  team:  ninjas
+  score: 800
+  email: john.doe@test.com
+  phone:
+    voice: 1234
+    sms:   6789
+  admin:  false
+  active: true
+
+- id:    1b
+  name:  Jim Black
+  team:  punks
+  score: 900
+  email: jim.black@ping.me
+  phone:
+    voice: 2345
+    sms:   5678
+  admin:  false
+  active: false
+
+- id:    2c
+  name:  Anne Kim
+  team:  sisters
+  score: 678
+  email: anne@sista.net
+  phone:
+    voice:
+    sms:
+  admin:  false
+  active: true
+
+- id:    3d
+  name:  Sandi
+  team:  sisters
+  score: 555
+  email: sandi@sista.net
+  phone:
+    voice: 2222
+    sms:
+  admin:  false
+  active: false
+
+- id:    4e
+  name:  Zak
+  team:  ninjas
+  score: 999
+  email: captain@test.me
+  phone:
+    voice: 7777
+    sms:
+  admin:  true
+  active: true
